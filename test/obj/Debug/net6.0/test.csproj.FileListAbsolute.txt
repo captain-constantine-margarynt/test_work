@@ -1,0 +1,15 @@
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/bin/Debug/net6.0/test
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/bin/Debug/net6.0/test.deps.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/bin/Debug/net6.0/test.runtimeconfig.json
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/bin/Debug/net6.0/test.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/bin/Debug/net6.0/test.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/test.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/refint/test.dll
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/test.pdb
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/test.genruntimeconfig.cache
+/Users/user/Google Диск (da@tdpartner.org)/GB/2023/Разработчик/8. Базы данных/test_work/test/obj/Debug/net6.0/ref/test.dll
